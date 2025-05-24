@@ -1,2 +1,2 @@
 # MyProject
-Demonstrações de como usar o GitHub com VS Code.
+Demonstrações de como usar o VS Code / GitHub.
